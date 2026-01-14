@@ -15,3 +15,14 @@
 - Found malicious IP address from SIEM dashboard
 - Understood false positives vs real threats
 - Learned basic incident investigation as a SOC analyst
+### Day 4 – TryHackMe
+- Room: Security Operations Center (SOC)
+- Completed SOC roles overview and quiz
+- Learned responsibilities of a Security Analyst
+- Understood role of Security Engineer in SOC
+- Learned Incident Response workflow
+- Introduction to Digital Forensics basics
+- Understood Malware Analyst responsibilities
+- Learned basics of Penetration Testing
+- Introduction to Red Team operations
+- Gained overall understanding of SOC team structure
