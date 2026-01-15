@@ -26,3 +26,7 @@
 - Learned basics of Penetration Testing
 - Introduction to Red Team operations
 - Gained overall understanding of SOC team structure
+### Day 4 – TryHackMe
+-What is Network
+- What is Internet
+- Private or publick network 
