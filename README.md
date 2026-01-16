@@ -27,6 +27,21 @@
 - Introduction to Red Team operations
 - Gained overall understanding of SOC team structure
 ### Day 4 – TryHackMe
--What is Network
+- What is Network
 - What is Internet
 - Private or publick network 
+Day 5 – TryHackMe (Intro to Networking)
+Task 3 – Identifying Devices on a Network
+Learned how devices are identified using IP addresses and MAC addresses
+IP address is logical and temporary
+MAC address is physical and unique
+Understood public vs private IP addresses
+Task 4 – Ping (ICMP)
+Learned how ICMP works
+Used ping to test network connectivity and host availability
+Basic command:
+ping <IP-address>
+Task 5 – Intro to LAN
+Learned basics of Local Area Networks (LAN)
+Devices communicate internally using private IP addresses
+Router handles traffic between LAN and the Internet
