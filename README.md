@@ -26,7 +26,7 @@
 - Learned basics of Penetration Testing
 - Introduction to Red Team operations
 - Gained overall understanding of SOC team structure
-### Day 4 – TryHackMe
+### Day 5 – TryHackMe
 - What is Network
 - What is Internet
 - Private or publick network 
@@ -45,3 +45,13 @@ Task 5 – Intro to LAN
 Learned basics of Local Area Networks (LAN)
 Devices communicate internally using private IP addresses
 Router handles traffic between LAN and the Internet
+Day 6 – TryHackMe
+
+Room: DNS in Detail
+Learned the DNS domain hierarchy
+Understood how domain names are structured
+Studied different DNS record types (A, CNAME, MX, TXT)
+Learned the purpose of each DNS record type
+Practiced making DNS requests using lookup tools
+Interpreted DNS query responses
+Gained a clearer understanding of how DNS resolves domain names
