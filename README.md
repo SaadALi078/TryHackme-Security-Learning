@@ -45,8 +45,8 @@ Task 5 – Intro to LAN
 Learned basics of Local Area Networks (LAN)
 Devices communicate internally using private IP addresses
 Router handles traffic between LAN and the Internet
-Day 6 – TryHackMe
 
+Day 6 – TryHackMe
 Room: DNS in Detail
 Learned the DNS domain hierarchy
 Understood how domain names are structured
