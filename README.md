@@ -47,6 +47,7 @@ Devices communicate internally using private IP addresses
 Router handles traffic between LAN and the Internet
 
 Day 6 – TryHackMe
+
 Room: DNS in Detail
 Learned the DNS domain hierarchy
 Understood how domain names are structured
