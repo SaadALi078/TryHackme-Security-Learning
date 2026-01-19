@@ -54,5 +54,10 @@ Understood how domain names are structured
 Studied different DNS record types (A, CNAME, MX, TXT)
 Learned the purpose of each DNS record type
 Practiced making DNS requests using lookup tools
+
+
+Day 7 – TryHackMe
+HTTP in detail 
+What is HTTPS?
 Interpreted DNS query responses
 Gained a clearer understanding of how DNS resolves domain names
