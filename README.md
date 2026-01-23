@@ -61,3 +61,10 @@ HTTP in detail
 What is HTTPS?
 Interpreted DNS query responses
 Gained a clearer understanding of how DNS resolves domain names
+
+
+Day 8 - Tryhackme 
+HTTP 
+HTTPs
+Request and response 
+What is a URL? (Uniform Resource Locator)
