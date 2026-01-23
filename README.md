@@ -68,3 +68,10 @@ HTTP
 HTTPs
 Request and response 
 What is a URL? (Uniform Resource Locator)
+HTTPS  METHODS 
+HTTP Header Fields 
+HTTP Status Code 
+HTTP/2
+Cookies 
+Room : Making request 
+GET PUT POST DELETE
