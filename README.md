@@ -75,3 +75,11 @@ HTTP/2
 Cookies 
 Room : Making request 
 GET PUT POST DELETE
+
+
+Day 9 – TryHackMe
+How Websites Work
+HTML
+JavaScript
+Sensitive Data Exposure
+HTML Injection
