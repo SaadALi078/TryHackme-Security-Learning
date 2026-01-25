@@ -83,3 +83,14 @@ HTML
 JavaScript
 Sensitive Data Exposure
 HTML Injection
+
+Day 10 – TryHackMe
+Topics Covered:
+oad Balancers
+Health Checks
+CDN (Content Delivery Network)
+Database
+WAF (Web Application Firewall)
+Virtual Hosts
+Static vs Dynamic Content
+Scripting and Backend Languages
