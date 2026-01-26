@@ -94,3 +94,9 @@ WAF (Web Application Firewall)
 Virtual Hosts
 Static vs Dynamic Content
 Scripting and Backend Languages
+
+Day 11– TryHackMe Linux Fundamentals Part 1
+Room: Ubuntu Linux machine
+Intorduction
+Background 
+Running 1st command Echo whoami ls cd
