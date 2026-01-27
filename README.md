@@ -100,3 +100,27 @@ Room: Ubuntu Linux machine
 Intorduction
 Background 
 Running 1st command Echo whoami ls cd
+
+
+Day 12 – TryHackMe (Linux Fundamentals Part 1)
+Topic: Linux Searching & Operators
+Learned efficient file and data searching in Linux
+Commands Learned:
+find – search files by name
+grep – search text inside a file
+grep -R – search text inside all files and subfolders
+pwd – print working directory
+ls – list directory contents
+cd – change directory
+cat – read file contents
+Linux Operators:
+& – run command in background
+&& – run next command only if previous succeeds
+> – redirect output (overwrite file)
+>> – redirect output (append to file)
+Key Learnings:
+Found files without manually navigating directories
+Searched specific data inside large log files
+Used grep to extract flags and important values
+Learned difference between overwrite and append
+Improved command-line efficiency in Linux
