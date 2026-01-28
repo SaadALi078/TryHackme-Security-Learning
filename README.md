@@ -176,6 +176,7 @@ Understood role of TPM and startup keys
 
 Learned how Windows protects against unauthorized changes
 
+
 Key Takeaways:
 
 Understood core Windows OS concepts
@@ -183,3 +184,8 @@ Understood core Windows OS concepts
 Learned basic Windows security mechanisms
 
 Gained foundational knowledge useful for SOC and security roles
+
+###Day 13 – TryHackMe
+Junior Security Analyst Journey
+Security Operations Center (SOC)
+A Day in the Life of a Security Analyst
