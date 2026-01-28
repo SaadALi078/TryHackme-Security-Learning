@@ -30,7 +30,7 @@
 - What is Network
 - What is Internet
 - Private or publick network 
-Day 5 – TryHackMe (Intro to Networking)
+###Day 5 – TryHackMe (Intro to Networking)
 Task 3 – Identifying Devices on a Network
 Learned how devices are identified using IP addresses and MAC addresses
 IP address is logical and temporary
@@ -46,7 +46,7 @@ Learned basics of Local Area Networks (LAN)
 Devices communicate internally using private IP addresses
 Router handles traffic between LAN and the Internet
 
-Day 6 – TryHackMe
+###Day 6 – TryHackMe
 
 Room: DNS in Detail
 Learned the DNS domain hierarchy
@@ -56,14 +56,14 @@ Learned the purpose of each DNS record type
 Practiced making DNS requests using lookup tools
 
 
-Day 7 – TryHackMe
+###Day 7 – TryHackMe
 HTTP in detail 
 What is HTTPS?
 Interpreted DNS query responses
 Gained a clearer understanding of how DNS resolves domain names
 
 
-Day 8 - Tryhackme 
+###Day 8 - Tryhackme 
 HTTP 
 HTTPs
 Request and response 
@@ -77,14 +77,14 @@ Room : Making request
 GET PUT POST DELETE
 
 
-Day 9 – TryHackMe
+###Day 9 – TryHackMe
 How Websites Work
 HTML
 JavaScript
 Sensitive Data Exposure
 HTML Injection
 
-Day 10 – TryHackMe
+###Day 10 – TryHackMe
 Topics Covered:
 oad Balancers
 Health Checks
@@ -95,14 +95,14 @@ Virtual Hosts
 Static vs Dynamic Content
 Scripting and Backend Languages
 
-Day 11– TryHackMe Linux Fundamentals Part 1
+###Day 11– TryHackMe Linux Fundamentals Part 1
 Room: Ubuntu Linux machine
 Intorduction
 Background 
 Running 1st command Echo whoami ls cd
 
 
-Day 12 – TryHackMe (Linux Fundamentals Part 1)
+###Day 12 – TryHackMe (Linux Fundamentals Part 1)
 Topic: Linux Searching & Operators
 Learned efficient file and data searching in Linux
 Commands Learned:
@@ -124,7 +124,7 @@ Searched specific data inside large log files
 Used grep to extract flags and important values
 Learned difference between overwrite and append
 Improved command-line efficiency in Linux
-Day 13 – TryHackMe (Windows Fundamentals 1, 2 & 3)
+###Day 13 – TryHackMe (Windows Fundamentals 1, 2 & 3)
 
 Rooms Completed:
 
