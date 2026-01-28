@@ -124,3 +124,62 @@ Searched specific data inside large log files
 Used grep to extract flags and important values
 Learned difference between overwrite and append
 Improved command-line efficiency in Linux
+Day 13 – TryHackMe (Windows Fundamentals 1, 2 & 3)
+
+Rooms Completed:
+
+Windows Fundamentals 1
+
+Windows Fundamentals 2
+
+Windows Fundamentals 3
+
+Windows Fundamentals 1
+
+Introduction to Windows Operating System
+
+Understood Windows file system structure
+
+Learned about system folders (Windows, System32, Program Files)
+
+Learned difference between files and folders
+
+Introduction to user accounts and permissions
+
+Basic understanding of Windows settings and control panel
+
+Windows Fundamentals 2
+
+Learned about Windows services
+
+Understood startup applications
+
+Learned about Task Manager and running processes
+
+Introduction to Registry and its purpose
+
+Learned importance of system configuration
+
+Basic understanding of Windows security features
+
+Windows Fundamentals 3
+
+Learned about User Account Control (UAC)
+
+Difference between Administrator and Standard User
+
+Understood how permissions protect the system
+
+Learned about BitLocker and disk encryption
+
+Understood role of TPM and startup keys
+
+Learned how Windows protects against unauthorized changes
+
+Key Takeaways:
+
+Understood core Windows OS concepts
+
+Learned basic Windows security mechanisms
+
+Gained foundational knowledge useful for SOC and security roles
