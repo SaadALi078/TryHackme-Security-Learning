@@ -189,3 +189,9 @@ Gained foundational knowledge useful for SOC and security roles
 Junior Security Analyst Journey
 Security Operations Center (SOC)
 A Day in the Life of a Security Analyst
+
+###Day 14 – TryHackMe
+
+Room: SOC Fundamentals
+Lab: L1 Analyst Practical (Alert Triage)
+Tool used: SIEM
