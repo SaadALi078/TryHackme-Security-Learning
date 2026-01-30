@@ -195,3 +195,8 @@ A Day in the Life of a Security Analyst
 Room: SOC Fundamentals
 Lab: L1 Analyst Practical (Alert Triage)
 Tool used: SIEM
+
+
+###Day 15 – TryHackMe
+Security Hierarchy
+Security Departments
