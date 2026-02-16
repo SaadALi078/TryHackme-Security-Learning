@@ -200,3 +200,4 @@ Tool used: SIEM
 ###Day 15 – TryHackMe
 Security Hierarchy
 Security Departments
+###Day 16 – TryHackMe  Revised all previous work from Day 2 to Day 14
