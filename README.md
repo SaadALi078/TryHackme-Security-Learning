@@ -201,3 +201,27 @@ Tool used: SIEM
 Security Hierarchy
 Security Departments
 ###Day 16 – TryHackMe  Revised all previous work from Day 2 to Day 14
+
+
+Day 17 – TryHackMe (SIEM & SOC Operations)
+
+Learned what SIEM (Security Information and Event Management) is
+
+Understood how SIEM collects logs and generates alerts based on rules
+
+Studied alert analysis process in SOC
+
+Learned difference between True Positive & False Positive alerts
+
+Explored alert workflow:
+
+Main Channel → Take Ownership → Investigation Channel → Close Alert
+
+Understood SOC Analyst’s role in analyzing alerts using tools like:
+
+IBM QRadar
+
+Splunk
+
+Learned importance of tuning SIEM rules to reduce false alerts
+
